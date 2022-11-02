@@ -3,6 +3,10 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
 </a>
 
+<a href="https://www.apple.com/ios">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+</a>
+
 <br>
 <br>
 <a href="https://github.com/DannySeidel">
